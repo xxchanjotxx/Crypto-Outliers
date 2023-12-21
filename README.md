@@ -21,5 +21,7 @@ Finding and analysing missing values while bridging the gap. Normalising the dat
 ## Normalising the outliers:
 
 ### Before:
+![image](https://github.com/xxchanjotxx/Crypto-Outliers/assets/78687582/416af353-fed0-4a87-a8b4-ad0fa5cdc0bb)
 
 ### After:
+![image](https://github.com/xxchanjotxx/Crypto-Outliers/assets/78687582/02f94c64-8704-420e-957d-70ffd61e48fd)
